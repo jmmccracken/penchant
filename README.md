@@ -1,5 +1,6 @@
 Causal penchant and leaning
 ===
+> :warning: **This code should be considered a research resource. This repo is not actively maintained.** 
 
 These MATLAB scripts calculate the causal penchant and causal leaning introduced in [1].  These scripts all assume the tolerance domains are symmetric and only calculate penchants and leanings for l-standard cause-effect assignments.  
 
@@ -21,4 +22,5 @@ The scripts use the following internal MATLAB functions: _nan_, _zeros_, _length
 
 This code has been tested on Ubuntu 13.10 with kernel version 3.13.0-68-generic x86_64 x86_64 x86_64 GNU/Linux with Matlab 7.9.1.671 (R2009b) Service Pack 1 64-bit (glnxa64).
 
-[1] arXiv:1506.06823
+[1] arXiv:1506.06823 ( 	
+https://doi.org/10.1103/PhysRevE.93.022207)
